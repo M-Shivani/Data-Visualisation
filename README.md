@@ -16,3 +16,5 @@ Task Details: Chosen Socio-Economic topic is Housing
 Changes in housing tenure and deprivation patterns across England and Wales between 2011 and 2021. This project presents a visual analytics investigation into these shifts, using census data from both 2011 and 2021 to explore how housing tenure composition, multi-dimension deprivation and economic activity have evolved across 316 Local Authority Districts (LAD). 
 
 Research Question: How have housing tenure and deprivation patterns across England and Wales changed between 2011 and 2021, and what is the relationship between housing conditions and socio-economic outcomes?
+
+View dashboards in Tableau: https://public.tableau.com/app/profile/shivani.m4186/vizzes
